@@ -10,6 +10,10 @@ These are all projects completed over the course of three years at college that 
  TTB Mobile banking redesign application
  
   According to the UX/UI design challenge, we were asked to redesign a mobile banking application. I chose TTB touch because the pain point that I surveyed said that ttb touch always breaks and cannot be used, so I redesign to make it look safe and restore customer trust.<br />
+  ![Persona](https://user-images.githubusercontent.com/112541499/213172317-2d652f99-9032-46ae-bcfe-a6d7778bcc3d.jpg)
+![customer journey](https://user-images.githubusercontent.com/112541499/213172331-60ac4326-e465-4aec-9f8f-e64e8da85f04.jpg)
+![Ideas](https://user-images.githubusercontent.com/112541499/213172342-9916dc80-3741-40d1-b0c9-4da0c93c1ee1.jpg)
+
  UI: https://www.figma.com/file/nQxOtmTcit2XajnAzDfdFF/TTB?t=rxb76KSTeN8gvvli-1<br />
  
  Mobile Banking features
