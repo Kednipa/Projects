@@ -20,7 +20,10 @@ UI: https://www.figma.com/file/nQxOtmTcit2XajnAzDfdFF/TTB?t=rxb76KSTeN8gvvli-1<b
 ![Ideas](https://user-images.githubusercontent.com/112541499/213172342-9916dc80-3741-40d1-b0c9-4da0c93c1ee1.jpg)
 
  
+ 
+ 
  Mobile Banking features
+ 
   Our innovation is creating features which detect and notify the users of scammers’ bank accounts. You may wonder how this feature will work, so basically the notification window will show up to the users when they are about to make a transaction. We are responsible for creating this innovation and collecting the data to build up a database from many platforms, such as the Blacklist website. Then, we are going to present these solutions to any bank that uses mobile banking applications. Our project will mainly focus on leveling up the security of transactions by giving warning and prevention to the users. Now, we are currently focused on users in Thailand, and we plan to expand this innovation to foreign users in the future.<br />
  UI: https://www.figma.com/file/jX0ojmSwLcQRLbd9KfllfO/Mobile?node-id=0%3A1&t=rxb76KSTeN8gvvli-1<br />
  
