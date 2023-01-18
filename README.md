@@ -8,8 +8,9 @@ These are all projects completed over the course of three years at college that 
  User Interface: https://www.figma.com/file/Q6ccnhGOJPrURNYzTAdKOp/PIPET?node-id=0%3A1&t=rxb76KSTeN8gvvli-1<br />
 
  TTB Mobile banking redesign application
+ 
   According to the UX/UI design challenge, we were asked to redesign a mobile banking application. I chose TTB touch because the pain point that I surveyed said that ttb touch always breaks and cannot be used, so I redesign to make it look safe and restore customer trust.<br />
- UI: https://www.figma.com/file/nQxOtmTcit2XajnAzDfdFF/TTB?t=rxb76KSTeN8gvvli-1
+ UI: https://www.figma.com/file/nQxOtmTcit2XajnAzDfdFF/TTB?t=rxb76KSTeN8gvvli-1<br />
  
  Mobile Banking features
  UI: https://www.figma.com/file/jX0ojmSwLcQRLbd9KfllfO/Mobile?node-id=0%3A1&t=rxb76KSTeN8gvvli-1
